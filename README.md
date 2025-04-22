@@ -5,7 +5,8 @@ This data analysis project aims to provide insights into the sales performance o
 
 ## Data Source
 H&L Test Data: The primary dataset used for this analysis is the "H&L BI Test.xlsx" file, containing information on the sales for the different category items within XYZ company and the countries that made these sales. 
-[Put schema here]
+[ Enter schema here]
+
 
 ## Tools
 - Excel - Data Cleaning
